@@ -1,0 +1,11 @@
+---------------------------------------------
+Q:
+向git push
+2019/8/24
+18:17	Push rejected: Push to origin/master was rejected
+A:
+pull远程仓库合并到本地，再提交
+git pull
+git pull origin master
+git pull origin master --allow-unrelated-histories
+-----------------------------------------------

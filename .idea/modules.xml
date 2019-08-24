@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributeProject.iml" filepath="$PROJECT_DIR$/distributeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaregistecenter/eurekaregistecenter.iml" filepath="$PROJECT_DIR$/eurekaregistecenter/eurekaregistecenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping/shopping.iml" filepath="$PROJECT_DIR$/shopping/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms/wms.iml" filepath="$PROJECT_DIR$/wms/wms.iml" />
+    </modules>
+  </component>
+</project>
